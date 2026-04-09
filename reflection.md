@@ -9,18 +9,17 @@ Techlead + AI Engineer kiêm Fullstack Dev.
 - Xây tools calling: 
     - query_rewrite: LLM rewrite query dựa vào context, ví dụ những trường hợp follow-up text sẽ không phù hợp: trả lời cụt ngủn "taxi" sẽ khó viết tạo query. 
     - fare_data: tính cước, có những parameters (loại dịch vụ, thành phố) cho function
-    - intent_detector: đoán intent của người dùng cho trường hợp 1. (general) 2. submit form làm tài xế Xanh(driver_registration), 3. trường hợp cần con người can thiếp (human_escalation)
+    - intent_detector: đoán intent của người dùng cho trường hợp 1. (general) 2. submit form làm tài xế Xanh(driver_registration), 3. trường hợp cần con người can thiệp (human_escalation)
 
 ## 3. SPEC mạnh/yếu
-- Mạnh nhất: Hổ trợ bởi AI nên sẽ có đủ context, khớp với repo dự án. Mô tả đủ features
+- Mạnh nhất: Hỗ trợ bởi AI nên sẽ có đủ context, khớp với repo dự án. Mô tả đủ features
 - Yếu nhất: AI viết phần lớn documentation nên có thể chưa đúng ý, đây sẽ là bài toán Automation chứ không phải Augmentation như AI đã viết.
 
 ## 4. Đóng góp khác
 - Giúp các bạn làm việc với nhau dễ dàng hơn, kết nối mọi người lại với nhau để đi cùng 1 hướng đi. Mọi người ban đầu khá ngại đề xuất, không chủ động.
-- 
 
 ## 5. Điều học được
-Trước hackathon, tiết học về Tools và Agent chỉ ở dạng cơ bản, sau hackathon có cơ hội đẩy nhanh tiến độ giúp cô đọng kiến thức dễ dàng.
+Trước hackathon, tiết học về Tools và Agent chỉ ở dạng lý thuyết, sau hackathon có cơ hội đẩy nhanh tiến độ giúp cô đọng kiến thức dễ dàng.
 Sau khi triển khai Hackathon dự án mới hiểu: Cách Agent và Tools phối hợp với nhau trong 1 dự án có thể có impact ngoài thị trường, giải quyết 1 bài toán cụ thể mà chưa có sẵn bên ngoài.
 
 ## 6. Nếu làm lại
